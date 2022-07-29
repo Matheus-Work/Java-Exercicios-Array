@@ -1,7 +1,7 @@
 package br.com.dio.exercicios;
 import java.util.Random;
 /*
-Faça um algoritmo que leia 20 números inteiros aleatótios (entre 0 - 100),
+Faça um algoritmo que leia 5 números inteiros aleatótios (entre 0 - 100),
 armazene num vetor, e no final mostre o seus números aleatórios,
 seus sucessores e seus antecessores.
  */
